@@ -1,2 +1,4 @@
 /target
 /.mvn/wrapper/*.jar
+gatlingCA.cert.pem
+gatlingCA.key.pem
